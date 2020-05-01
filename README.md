@@ -1,8 +1,6 @@
 # Little project to study Node and ReactJS
 
-This project only shows one button to create an a new repository and list it. Each project can be removed after that.
-
-
+This project shows one button to create new repositories and list it. Each repository can be removed after that.
 
 ## To execute this project:
 
