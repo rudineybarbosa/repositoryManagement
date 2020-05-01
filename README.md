@@ -1,4 +1,4 @@
-# Little project to study Node and ReactJS
+# Little project from Rocketseat Bootcamp 11, to study Node and ReactJS
 
 This project shows one button to create new repositories and list it. Each repository can be removed after that.
 
